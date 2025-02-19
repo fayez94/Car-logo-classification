@@ -1,5 +1,5 @@
 # remote_theme: google/docsy@main
-remote_theme: conhugo-universal-themego@main
+remote_theme: allegiant@main
 plugins:
 - jekyll-remote-theme
 
