@@ -1,0 +1,9 @@
+remote_theme: google/docsy@main
+plugins:
+- jekyll-remote-theme
+
+title: Car logo Classification
+description: An image classifiacation API that classifies 20 different types of cars logo around the world
+
+aurhor:
+  name: Mohammad Fayez Ullah
