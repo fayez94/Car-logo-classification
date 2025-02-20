@@ -36,7 +36,7 @@ Details can be found in `notebooks/training.ipynb`
 
 # Model Deployment
 I deployed to model to HuggingFace Spaces Gradio App. The implementation can be found in `deployment` folder or [here](https://huggingface.co/spaces/fayez94/Car_logo_classification). <br/>
-<img src = "deployment/Gradio_APP.png" width="700" height="350">
+<img src = "deployment/Gradio_App.png" width="700" height="350">
 
 # API integration with GitHub Pages
 The deployed model API is integrated [here](https://fayez94.github.io/Car-logo-classification/logo_classification.html) in GitHub Pages Website. Implementation and other details can be found in `docs` folder.
