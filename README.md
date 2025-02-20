@@ -31,7 +31,7 @@ The types are following: <br/>
 Details can be found in `notebooks/training.ipynb`
 
 # Training and Data Cleaning
-**Training:** Fine-tuned a resnet101 model for 15 epochs (3 times) and got upto ~94% accuracy. <br/>
+**Training:** Fine-tuned a 'resnet101' model for 15 epochs (3 times) and got upto ~94% accuracy. <br/>
 **Data Cleaning:** This part took the most time. Since I collected data from the browser, there was a lot of noise, including irrelevant images. I cleaned and updated the dataset using FastAI's ImageClassifierCleaner, performing data cleaning after each training or fine-tuning iteration—except for the final iteration, which served as the model's last version. <br/>
 
 # Model Deployment
